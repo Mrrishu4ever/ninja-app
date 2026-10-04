@@ -17,7 +17,7 @@ Learning: Git/GitHub workflow, monorepo layout, Maven, CI
 - [x] Add `NinjaApiApplication.java`
 - [x] Add `HealthController.java` (`GET /health`)
 - [x] Add `api/target/` to `.gitignore`
-- [ ] First green check in the Actions tab
+- [x] First green check in the Actions tab
 
 ## Phase 2: Backend core
 Learning: layered architecture, REST design, ORM, testing
