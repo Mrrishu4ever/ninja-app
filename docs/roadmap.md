@@ -23,7 +23,7 @@ Learning: Git/GitHub workflow, monorepo layout, Maven, CI
 Learning: layered architecture, REST design, ORM, testing
 
 - [ ] `Entry` entity and repository
-- [ ] `POST /entries` and `GET /entries`
+- [x] `POST /entries` and `GET /entries`
 - [ ] `GET`, `PUT`, `DELETE` for a single entry
 - [ ] DTOs and validation
 - [ ] Global error handling
